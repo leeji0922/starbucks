@@ -1,0 +1,9 @@
+.find_me {
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px 20px 0;
+    background-image: url('../images/icon_find_sally.png') 50% 100%;
+    background-repeat: no-repeat;
+    width: 205px;
+    height: 182px;
+}
